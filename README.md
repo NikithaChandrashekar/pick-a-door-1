@@ -1,1 +1,2 @@
-# pick-a-door-1
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
